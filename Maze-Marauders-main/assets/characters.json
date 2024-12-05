@@ -1,0 +1,38 @@
+
+{
+  "characters": [
+    {
+      "name": "Arin the Brave",
+      "role": "Warrior",
+      "abilities": ["Sword Mastery", "Shield Block", "Battle Cry"],
+      "stats": {
+        "health": 100,
+        "strength": 80,
+        "agility": 60
+      },
+      "color": "purple"
+    },
+    {
+      "name": "Lira the Mystic",
+      "role": "Mage",
+      "abilities": ["Fireball", "Arcane Shield", "Teleport"],
+      "stats": {
+        "health": 70,
+        "strength": 40,
+        "agility": 90
+      },
+      "color": "red"
+    },
+    {
+      "name": "Kael the Shadow",
+      "role": "Rogue",
+      "abilities": ["Stealth", "Backstab", "Poison Dagger"],
+      "stats": {
+        "health": 80,
+        "strength": 60,
+        "agility": 100
+      },
+      "color": "blue"
+    }
+  ]
+}

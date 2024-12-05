@@ -1,0 +1,37 @@
+{
+    "attacks": [
+      {
+        "name": "Fire Blade",
+        "damage": 50,
+        "castTime": 1,
+        "colour": "red",
+        "swipe": true,
+        "projectile": false,
+        "directional": false,
+        "targetted": false,
+        "duration": null
+      },
+      {
+        "name": "Fireball",
+        "damage": 100,
+        "castTime": 2,
+        "colour": "orange",
+        "swipe": false,
+        "projectile": true,
+        "directional": false,
+        "targetted": false,
+        "duration": null
+      },
+      {
+        "name": "Fire Wall",
+        "damage": 80,
+        "castTime": 3,
+        "colour": "orange",
+        "swipe": false,
+        "projectile": false,
+        "directional": true,
+        "targetted": true,
+        "duration": 2
+      }
+    ]
+  }
